@@ -1,0 +1,14 @@
+{
+  "name": "hdt-metadata.js",
+  "version": "1.0.0",
+  "description": "A wrapper for opening hdt documents that have metadata in a separate hdt document",
+  "main": "hdt-metadata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hdt": "^1.2.4"
+  }
+}

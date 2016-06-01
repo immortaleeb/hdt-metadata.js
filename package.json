@@ -1,6 +1,6 @@
 {
   "name": "hdt-metadata.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper for opening hdt documents that have metadata in a separate hdt document",
   "main": "hdt-metadata.js",
   "scripts": {

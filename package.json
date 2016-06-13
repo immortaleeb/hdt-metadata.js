@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hdt": "^1.2.4"
+    "hdt": "git+https://github.com/immortaleeb/HDT-Node.git"
   }
 }
